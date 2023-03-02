@@ -22,6 +22,11 @@ Mision
 10.
     ------------- agregado ----------------
 11.
-    
+    git add .
+    git commit -m "Agrega solucion primer ejercicio"
 12.
+    git remote add origin https://github.com/Jhan73/aspirantes-mir-ejercicio-1.git
+    git push -u origin master
+
 13.
+    ----------- subido -------------
